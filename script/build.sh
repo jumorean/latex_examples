@@ -1,0 +1,3 @@
+
+xelatex paper.tex
+
